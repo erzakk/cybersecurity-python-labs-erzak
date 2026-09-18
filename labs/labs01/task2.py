@@ -9,7 +9,7 @@ sys.path.append(
 
 from shared.student import GROUP_NAME, STUDENT_NAME, VARIANT_NUMBER
 
-# Вхідні дані згідно з вашим варіантом
+# Вхідні дані згідно з варіантом
 users = {
     "red_team_lead": {"role": "red_team", "clearance": 4, "department": "Red Team", "active": True},
     "blue_team_analyst": {"role": "blue_team", "clearance": 3, "department": "Blue Team", "active": True},
