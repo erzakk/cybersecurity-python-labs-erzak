@@ -1,0 +1,26 @@
+[
+    {
+        "event": "login",
+        "user": "admin_user",
+        "result": "success",
+        "timestamp": "2026-09-18 09:15:21",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "sec_officer",
+        "result": "failure",
+        "timestamp": "2026-09-18 09:15:21",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": "failure",
+        "timestamp": "2026-09-18 09:15:21",
+        "args": [],
+        "kwargs": {}
+    }
+]
